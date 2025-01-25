@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Clostech docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -26,8 +26,13 @@
     }
   ],
   "topbarCtaButton": {
+<<<<<<< HEAD
     "name": "Portal empresa",
     "url": "https://portal-empresa.clostech.tech"
+=======
+    "name": "Tu vieja",
+    "url": "https://dashboard.mintlify.com"
+>>>>>>> bc778efb9f99cd5c6893830c5afe6d8509ffe3bb
   },
   "tabs": [
     {
