@@ -7,23 +7,27 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#B02F92",
+    "light": "#B02F92",
+    "dark": "#B02F92",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#3DC2DD",
+      "to": "#3DC2DD"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
       "url": "mailto:hi@mintlify.com"
+    },
+    {
+      "name": "Web Clostech",
+      "url": "https://clostech.tech"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Portal empresa",
+    "url": "https://portal-empresa.clostech.tech"
   },
   "tabs": [
     {
